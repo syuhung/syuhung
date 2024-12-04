@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syuhung)
+
+![](https://syuhung-github-readme-stats.vercel.app/api?username=syuhung&hide=contribs)
+
+![](https://syuhung-github-readme-stats.vercel.app/api/top-langs/?username=syuhung&layout=compact&langs_count=20&hide=shell,makefile)
+
+![syuhung's Most used languages](https://syuhung-github-readme-stats.vercel.app/api/top-langs?username=syuhung&show_icons=true&count_private=true&theme=gotham&&langs_count=10)
